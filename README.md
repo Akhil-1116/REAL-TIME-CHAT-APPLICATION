@@ -25,3 +25,5 @@ A fully functional real-time chat application built with React and Socket.io, su
 
 #OUTPUTS
 
+![Image](https://github.com/user-attachments/assets/4f70c420-6ceb-4dbd-9186-22db3e2a281e)
+![Image](https://github.com/user-attachments/assets/28df3d80-70e2-4cc2-95ab-f2a934e43d11)
